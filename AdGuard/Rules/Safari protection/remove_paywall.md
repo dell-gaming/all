@@ -1,4 +1,4 @@
-# Local: Proteção/Proteção Safari/Regras de usuário do Safari/
+# Local: Proteção/Proteção Safari/Regras de usuário do Safari
 
 ## Desativar Paywall Globo
 ||static.infoglobo.com.br/paywall/*^$important
